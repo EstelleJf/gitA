@@ -1,0 +1,14 @@
+{
+    "name": "estellejf/gita",
+    "description": "a test for composer study",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Lucy",
+            "email": "lisaji2010@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
